@@ -7,4 +7,4 @@ Our goal is to prove the existence and analyze the impact of the increase on dem
 
 Video: <a>https://drive.google.com/drive/folders/1qDdAjZqxdLXeXmBgm4PrBsZxzJeSpNOC?usp=sharing</a>
 
-Aplicação Web: <a>https://flight-delay-prediction-kubyrpb0v-rodrigobarbosaas-projects.vercel.app</a>
+Aplicação Web: <a>https://flight-status-prediction-app.onrender.com</a>
