@@ -6,3 +6,5 @@ We also used a machine learning algorithm that uses classification to better und
 Our goal is to prove the existence and analyze the impact of the increase on demand for flights during high season timeframes of the year.
 
 Video: <a>https://drive.google.com/drive/folders/1qDdAjZqxdLXeXmBgm4PrBsZxzJeSpNOC?usp=sharing</a>
+
+Aplicação Web: <a>https://flight-delay-prediction-kubyrpb0v-rodrigobarbosaas-projects.vercel.app</a>
